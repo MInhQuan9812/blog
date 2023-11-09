@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aWCA9a/wMfuPz6/oRO86J2PbKiqY2wY1TI0rnvDxO8iI8WAZaRpAgbVC78nt5jHhkAjBS0LiBEekryvA9CVRpQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MinhQuan\\Music\\EmailService\\EmailService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MinhQuan\\.nuget\\packages\\microsoft.win32.systemevents\\7.0.0\\microsoft.win32.systemevents.7.0.0.nupkg.sha512",
+    "C:\\Users\\MinhQuan\\.nuget\\packages\\system.configuration.configurationmanager\\7.0.0\\system.configuration.configurationmanager.7.0.0.nupkg.sha512",
+    "C:\\Users\\MinhQuan\\.nuget\\packages\\system.drawing.common\\7.0.0\\system.drawing.common.7.0.0.nupkg.sha512",
+    "C:\\Users\\MinhQuan\\.nuget\\packages\\system.security.cryptography.protecteddata\\7.0.0\\system.security.cryptography.protecteddata.7.0.0.nupkg.sha512",
+    "C:\\Users\\MinhQuan\\.nuget\\packages\\system.security.permissions\\7.0.0\\system.security.permissions.7.0.0.nupkg.sha512",
+    "C:\\Users\\MinhQuan\\.nuget\\packages\\system.windows.extensions\\7.0.0\\system.windows.extensions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
